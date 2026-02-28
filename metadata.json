@@ -1,0 +1,5 @@
+{
+  "name": "snapGan AI",
+  "description": "A minimalist, professional text-to-image generator powered by Gemini 3 Pro Image Preview.",
+  "requestFramePermissions": []
+}

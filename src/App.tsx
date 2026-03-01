@@ -29,7 +29,7 @@ declare global {
   }
 }
 
-type ImageSize = "1K" | "2K" | "4K";
+type ImageSize = "4K";
 
 interface GeneratedImage {
   id: string;

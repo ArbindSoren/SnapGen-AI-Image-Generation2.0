@@ -235,7 +235,7 @@ export default function App() {
                     <div className="flex items-center justify-between">
                       <span className="text-sm font-medium opacity-60">Resolution</span>
                       <div className="flex gap-2">
-                        {(["1K", "2K", "4K"] as ImageSize[]).map((size) => (
+                        {(["4K"] as ImageSize[]).map((size) => (
                           <button
                             key={size}
                             onClick={() => setImageSize(size)}
